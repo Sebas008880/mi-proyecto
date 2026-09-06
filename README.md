@@ -14,6 +14,7 @@ git add .                   # Agregar archivos
 git commit -m "mensaje"     # Guardar cambios
 git remote add origin URL   # Conectar con GitHub
 git push -u origin master   # Subir a GitHub
+
 ```
 - Autor
 
