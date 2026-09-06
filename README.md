@@ -3,6 +3,7 @@ Repositorio creado como práctica de control de versiones con Git y GitHub usand
 
 
 -Descripción
+
 Proyecto de práctica para aprender el flujo básico de Git y GitHub, incluyendo configuración, commits y conexión con repositorio remoto.
 
 - Comandos Git utilizados
